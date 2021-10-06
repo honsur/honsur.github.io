@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Imagerie de l&#39;AVC aigu</title>
+    <link>https://honsur.github.io/</link>
+    <description>Recent content on Imagerie de l&#39;AVC aigu</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://honsur.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>With ToC</title>
+      <link>https://honsur.github.io/docs/example/table-of-contents/with-toc.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://honsur.github.io/docs/example/table-of-contents/with-toc.html</guid>
+      <description>Caput vino delphine in tamen vias Cognita laeva illo fracta Lorem markdownum pavent auras, surgit nunc cingentibus libet Laomedonque que est. Pastor An arbor filia foedat, ne fugit aliter, per. Helicona illas et callida neptem est Oresitrophos caput, dentibus est venit. Tenet reddite famuli praesentem fortibus, quaeque vis foret si frondes gelidos gravidae circumtulit inpulit armenta nativum.
+ Te at cruciabere vides rubentis manebo Maturuit in praetemptat ruborem ignara postquam habitasse Subitarum supplevit quoque fontesque venabula spretis modo Montis tot est mali quasque gravis Quinquennem domus arsit ipse Pellem turis pugnabant locavit  Natus quaerere Pectora et sine mulcere, coniuge dum tincta incurvae.</description>
+    </item>
+    
+    <item>
+      <title>Without ToC</title>
+      <link>https://honsur.github.io/docs/example/table-of-contents/without-toc.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://honsur.github.io/docs/example/table-of-contents/without-toc.html</guid>
+      <description>At me ipso nepotibus nunc celebratior genus Tanto oblite Lorem markdownum pectora novis patenti igne sua opus aurae feras materiaque illic demersit imago et aristas questaque posset. Vomit quoque suo inhaesuro clara. Esse cumque, per referri triste. Ut exponit solisque communis in tendens vincetis agisque iamque huic bene ante vetat omina Thebae rates. Aeacus servat admonitu concidit, ad resimas vultus et rugas vultu dignamque Siphnon.
+Quam iugulum regia simulacra, plus meruit humo pecorumque haesit, ab discedunt dixit: ritu pharetramque.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://honsur.github.io/docs/example/collapsed/3rd-level/4th-level.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://honsur.github.io/docs/example/collapsed/3rd-level/4th-level.html</guid>
+      <description>4th Level of Menu Caesorum illa tu sentit micat vestes papyriferi Inde aderam facti; Theseus vis de tauri illa peream. Oculos uberaque non regisque vobis cursuque, opus venit quam vulnera. Et maiora necemque, lege modo; gestanda nitidi, vero? Dum ne pectoraque testantur.
+Venasque repulsa Samos qui, exspectatum eram animosque hinc, aut manes, Assyrii. Cupiens auctoribus pariter rubet, profana magni super nocens. Vos ius sibilat inpar turba visae iusto! Sedes ante dum superest extrema.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://honsur.github.io/docs/example/hidden.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://honsur.github.io/docs/example/hidden.html</guid>
+      <description>This page is hidden in menu Quondam non pater est dignior ille Eurotas Latent te facies Lorem markdownum arma ignoscas vocavit quoque ille texit mandata mentis ultimus, frementes, qui in vel. Hippotades Peleus pennas conscia cuiquam Caeneus quas.
+ Pater demittere evincitque reddunt Maxime adhuc pressit huc Danaas quid freta Soror ego Luctus linguam saxa ultroque prior Tatiumque inquit Saepe liquitur subita superata dederat Anius sudor  Cum honorum Latona O fallor in sustinui iussorum equidem.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://honsur.github.io/docs/shortcodes/buttons.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://honsur.github.io/docs/shortcodes/buttons.html</guid>
+      <description>Buttons Buttons are styled links that can lead to local page or external link.
+Example {{&amp;lt; button relref=&amp;#34;/&amp;#34; [class=&amp;#34;...&amp;#34;] &amp;gt;}}Get Home{{&amp;lt; /button &amp;gt;}} {{&amp;lt; button href=&amp;#34;https://github.com/alex-shpak/hugo-book&amp;#34; &amp;gt;}}Contribute{{&amp;lt; /button &amp;gt;}} Get HomeContribute</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://honsur.github.io/docs/shortcodes/columns.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://honsur.github.io/docs/shortcodes/columns.html</guid>
+      <description>Columns Columns help organize shorter pieces of content horizontally for readability.
+{{&amp;lt; columns &amp;gt;}} &amp;lt;!-- begin columns block --&amp;gt; # Left Content Lorem markdownum insigne... &amp;lt;---&amp;gt; &amp;lt;!-- magic sparator, between columns --&amp;gt; # Mid Content Lorem markdownum insigne... &amp;lt;---&amp;gt; &amp;lt;!-- magic sparator, between columns --&amp;gt; # Right Content Lorem markdownum insigne... {{&amp;lt; /columns &amp;gt;}} Example Left Content Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat stringit, frustra Saturnius uteroque inter!</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://honsur.github.io/docs/shortcodes/details.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://honsur.github.io/docs/shortcodes/details.html</guid>
+      <description>Details Details shortcode is a helper for details html5 element. It is going to replace expand shortcode.
+Example {{&amp;lt; details &amp;#34;Title&amp;#34; [open] &amp;gt;}} ## Markdown content Lorem markdownum insigne... {{&amp;lt; /details &amp;gt;}} {{&amp;lt; details title=&amp;#34;Title&amp;#34; open=true &amp;gt;}} ## Markdown content Lorem markdownum insigne... {{&amp;lt; /details &amp;gt;}} TitleMarkdown content Lorem markdownum insigne&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://honsur.github.io/docs/shortcodes/expand.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://honsur.github.io/docs/shortcodes/expand.html</guid>
+      <description>Expand Expand shortcode can help to decrease clutter on screen by hiding part of text. Expand content by clicking on it.
+Example Default {{&amp;lt; expand &amp;gt;}} ## Markdown content Lorem markdownum insigne... {{&amp;lt; /expand &amp;gt;}} Expand↕Markdown content Lorem markdownum insigne&amp;hellip;With Custom Label {{&amp;lt; expand &amp;#34;Custom Label&amp;#34; &amp;#34;...&amp;#34; &amp;gt;}} ## Markdown content Lorem markdownum insigne... {{&amp;lt; /expand &amp;gt;}} Custom Label.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://honsur.github.io/docs/shortcodes/hints.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://honsur.github.io/docs/shortcodes/hints.html</guid>
+      <description>Hints Hint shortcode can be used as hint/alerts/notification block.
+There are 3 colors to choose: info, warning and danger.
+{{&amp;lt; hint [info|warning|danger] &amp;gt;}} **Markdown content** Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa {{&amp;lt; /hint &amp;gt;}} Example Markdown content
+Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat stringit, frustra Saturnius uteroque inter! Oculis non ritibus TelethusaMarkdown content</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://honsur.github.io/docs/shortcodes/katex.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://honsur.github.io/docs/shortcodes/katex.html</guid>
+      <description>KaTeX KaTeX shortcode let you render math typesetting in markdown document. See KaTeX
+Example {{&amp;lt; katex [display] [class=&amp;#34;text-center&amp;#34;] &amp;gt;}} f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi {{&amp;lt; /katex &amp;gt;}} \[f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi\]Display Mode Example Here is some inline example: \(\pi(x)\), rendered in the same line. And below is display example, having display: block \[f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi\]Text continues here.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://honsur.github.io/docs/shortcodes/mermaid.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://honsur.github.io/docs/shortcodes/mermaid.html</guid>
+      <description>Mermaid Chart Mermaid is library for generating svg charts and diagrams from text.
+Example {{&amp;lt; mermaid [class=&amp;#34;text-center&amp;#34;]&amp;gt;}} sequenceDiagram Alice-&amp;gt;&amp;gt;Bob: Hello Bob, how are you? alt is sick Bob-&amp;gt;&amp;gt;Alice: Not so good :( else is well Bob-&amp;gt;&amp;gt;Alice: Feeling fresh like a daisy end opt Extra response Bob-&amp;gt;&amp;gt;Alice: Thanks for asking end {{&amp;lt; /mermaid &amp;gt;}} mermaid.initialize({flowchart: { useMaxWidth:true }});sequenceDiagramAlice-Bob: Hello Bob, how are you?</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://honsur.github.io/docs/shortcodes/tabs.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://honsur.github.io/docs/shortcodes/tabs.html</guid>
+      <description>Tabs Tabs let you organize content by context, for example installation instructions for each supported platform.
+{{&amp;lt; tabs &amp;#34;uniqueid&amp;#34; &amp;gt;}} {{&amp;lt; tab &amp;#34;MacOS&amp;#34; &amp;gt;}} # MacOS Content {{&amp;lt; /tab &amp;gt;}} {{&amp;lt; tab &amp;#34;Linux&amp;#34; &amp;gt;}} # Linux Content {{&amp;lt; /tab &amp;gt;}} {{&amp;lt; tab &amp;#34;Windows&amp;#34; &amp;gt;}} # Windows Content {{&amp;lt; /tab &amp;gt;}} {{&amp;lt; /tabs &amp;gt;}} Example MacOSMacOS This is tab MacOS content.
+Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat stringit, frustra Saturnius uteroque inter!</description>
+    </item>
+    
+    <item>
+      <title>Accueil</title>
+      <link>https://honsur.github.io/accueil.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://honsur.github.io/accueil.html</guid>
+      <description>Accueil **Utiliser le navigateur ** Ce module a été conçu à l&amp;rsquo;intention des résidents juniors de radiologie dans le but de faciliter l’apprentissage d’une interprétation efficiente de l’imagerie dans le contexte de l’accident vasculaire cérébral aigu (AVC) et le transfert de l’information pertinente à l’équipe clinique.
+Ce module vise à être interactif, vous devrez donc répondre à plusieurs questions au fur et à mesure que vous le compléterez. Nous vous conseillons, même si vous avez la bonne réponse au premier essai, de consulter les explications accompagnant les énoncés de mauvaise réponse.</description>
+    </item>
+    
+    <item>
+      <title>Détection des occlusions artérielles (Deuxième Lecture)</title>
+      <link>https://honsur.github.io/docs/pages/Lecture_2.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://honsur.github.io/docs/pages/Lecture_2.html</guid>
+      <description>Détection des occlusions artérielles (Deuxième Lecture) Voici le lien pour les cas et le formulaire
+Après avoir terminé les cas, passez à la section suivante pour les réponses.
+Continuez</description>
+    </item>
+    
+    <item>
+      <title>Détection des occlusions artérielles (Première Lecture)</title>
+      <link>https://honsur.github.io/docs/pages/Lecture_1.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://honsur.github.io/docs/pages/Lecture_1.html</guid>
+      <description>Détection des occlusions artérielles (Première Lecture) Avant d&amp;rsquo;examiner le matériel pédagogique fourni dans ce module, nous commencerons par une interprétation initiale de 10 angioscans pour fournir une base de référence.
+Voici le lien pour les cas et le formulaire
+Pour accéder aux cas, cliquez sur le lien hypertexte avant chaque série de questions, comme dans l&amp;rsquo;image fournie. Les cas sont hébergés sur un système PACS ouvert, accessible uniquement sur l&amp;rsquo;intranet de l&amp;rsquo;hôpital pour le moment.</description>
+    </item>
+    
+    <item>
+      <title>Objectifs</title>
+      <link>https://honsur.github.io/docs/pages/objectifs.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://honsur.github.io/docs/pages/objectifs.html</guid>
+      <description>Objectifs d&amp;rsquo;apprentissage Après avoir parcouru ce module, le résident junior de radiologie devrait être en mesure de :
+ Connaître les indications d’imagerie en contexte d’accident vasculaire cérébral (AVC) Connaître les principes guidant le choix des modalités d’imagerie en AVC Interpréter un scan cérébral C- dans le contexte spécifique de l’AVC aigu Interpréter un angioscan cérébral dans le contexte spécifique de l’AVC aigu Interpréter un angioscan cervical dans le contexte spécifique de l’AVC aigu Communiquer rapidement à l’équipe traitante les trouvailles pertinentes à l’imagerie  Continuez</description>
+    </item>
+    
+    <item>
+      <title>Réponses pour le Séance 1</title>
+      <link>https://honsur.github.io/docs/pages/Reponses_Lecture_1.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://honsur.github.io/docs/pages/Reponses_Lecture_1.html</guid>
+      <description>Réponses pour le Séance 1 Réponse Cas 1Scan non-contraste: On note des changements ischémique précoce (Figure 1) impliquant les noyaux centraux gris droits (spécifiquement la tête caudée et le putamen), résultant en un score d&amp;rsquo;ASPECT de 8.
+Il existe également une MCA droite hyperdense (Figure 2).
+Il n&amp;rsquo;y a pas de contra-indication pour la thrombolyse.
+En ce qui concerne les lésions chroniques, il y a quelques petits lacunes comme dans le centrum semiovale droit (Figure 3).</description>
+    </item>
+    
+    <item>
+      <title>Réponses pour le Séance 2</title>
+      <link>https://honsur.github.io/docs/pages/Reponses_Lecture_2.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://honsur.github.io/docs/pages/Reponses_Lecture_2.html</guid>
+      <description>Réponses pour le Séance 2 Réponse Cas 1Scan non-contraste: Il n&amp;rsquo;y a pas de changement ischémique précoce ou artère hyper-dense.
+Pas de contra-indication pour la thrombolyse.
+En ce qui concerne les lésions chroniques, il y a quelques petits lacunes comme dans le corona radiata bilatéralement.
+Angioscan: Il n&amp;rsquo;y a pas d&amp;rsquo;occlusion artérielle aiguë.
+Il n&amp;rsquo;y a pas d&amp;rsquo;occlusion extra-crânienne.
+Réponse Cas 2Scan non-contraste: Il y a une petite zone subtile de changement ischèmique precoce impliquant l&amp;rsquo;aspect latéral des gyri central pré et post (Figure 1).</description>
+    </item>
+    
+    <item>
+      <title>Théorie</title>
+      <link>https://honsur.github.io/docs/pages/Final_Theory.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://honsur.github.io/docs/pages/Final_Theory.html</guid>
+      <description>Notions théoriques L’imagerie de l’AVC aigu Dans un premier temps, un scan cérébral sans contraste endoveineux est effectué pour :
+ Exclure une cause hémorragique Identifier une étiologie alternative Détecter des changements ischémiques précoces Estimer l’étendue du territoire atteint par l’ischémie  Si aucune cause non-ischémique n’est identifiée ou qu’il y a des changements ischémiques précoces, la poursuite de l’investigation avec un angioscan cérébral a pour objectif d’identifier un site d’occlusion.</description>
+    </item>
+    
+  </channel>
+</rss>
